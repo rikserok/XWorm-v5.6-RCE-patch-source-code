@@ -1,0 +1,408 @@
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\XWorm.pdb
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\DotNetZip.dll
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\FastColoredTextBox.dll
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\GMap.NET.Core.dll
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\GMap.NET.WindowsForms.dll
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\Guna.UI2.dll
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\IconExtractor.dll
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\NAudio.dll
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\csdfs\Desktop\XWorm_V5.6_\bin\Debug\net45\SimpleObfuscator.dll
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.AssemblyReference.cache
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.g.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.About.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.ACT.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Builder.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Chat.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipboard.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipper.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.CustomOpen.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.DDosAttack.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.EditReg.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.FilesSearcher.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.FM.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Form2.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Ftp.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Fun.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.HApps.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Hash.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.HBrowser.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Hosts.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.HRDP.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.INFO.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Keylogger.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Main.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Maps.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.MBox.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.MIC.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.ngrok.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Performance.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Port.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.ProcessV.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Programs.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Proxy.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Ransomware.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Registry.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Resources.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.RunPE.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.ServiceManager.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Shell.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.Sound.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.StartupManager.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.TBotNotify.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.TcpConnectionForm.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.ToolsBox.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.TXT.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.VoiceChat.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.WebCam.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.RemoteDesktop.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.VBCode.resources
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.GenerateResource.cache
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.CoreCompileInputs.cache
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.5186F799.Up2Date
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\XWorm_V5.6_\obj\Debug\net45\XWorm.pdb
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.pdb
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\DotNetZip.dll
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\FastColoredTextBox.dll
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\GMap.NET.Core.dll
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\GMap.NET.WindowsForms.dll
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\Guna.UI2.dll
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\IconExtractor.dll
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\NAudio.dll
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\bin\Debug\net45\SimpleObfuscator.dll
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.AssemblyReference.cache
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.g.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.About.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ACT.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Builder.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Chat.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipboard.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipper.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.CustomOpen.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.DDosAttack.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.EditReg.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.FilesSearcher.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.FM.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Form2.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Ftp.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Fun.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HApps.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Hash.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HBrowser.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Hosts.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HRDP.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.INFO.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Keylogger.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Main.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Maps.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.MBox.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.MIC.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ngrok.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Performance.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Port.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ProcessV.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Programs.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Proxy.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Ransomware.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Registry.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Resources.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.RunPE.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ServiceManager.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Shell.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Sound.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.StartupManager.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TBotNotify.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TcpConnectionForm.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ToolsBox.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TXT.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.VoiceChat.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.WebCam.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.RemoteDesktop.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.VBCode.resources
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.GenerateResource.cache
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.CoreCompileInputs.cache
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.5186F799.Up2Date
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.pdb
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.pdb
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\DotNetZip.dll
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\FastColoredTextBox.dll
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\GMap.NET.Core.dll
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\GMap.NET.WindowsForms.dll
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\Guna.UI2.dll
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\IconExtractor.dll
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\NAudio.dll
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\SimpleObfuscator.dll
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.AssemblyReference.cache
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.g.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.About.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ACT.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Builder.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Chat.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipboard.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipper.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.CustomOpen.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.DDosAttack.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.EditReg.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.FilesSearcher.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.FM.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Form2.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Ftp.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Fun.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HApps.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Hash.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HBrowser.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Hosts.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HRDP.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.INFO.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Keylogger.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Main.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Maps.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.MBox.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.MIC.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ngrok.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Performance.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Port.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ProcessV.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Programs.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Proxy.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Ransomware.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Registry.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Resources.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.RunPE.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ServiceManager.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Shell.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Sound.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.StartupManager.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TBotNotify.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TcpConnectionForm.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ToolsBox.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TXT.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.VoiceChat.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.WebCam.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.RemoteDesktop.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.VBCode.resources
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.GenerateResource.cache
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.CoreCompileInputs.cache
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.5186F799.Up2Date
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.pdb
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.pdb
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\DotNetZip.dll
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\FastColoredTextBox.dll
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\GMap.NET.Core.dll
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\GMap.NET.WindowsForms.dll
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\Guna.UI2.dll
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\IconExtractor.dll
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\NAudio.dll
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\SimpleObfuscator.dll
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.AssemblyReference.cache
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.g.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.About.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ACT.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Builder.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Chat.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipboard.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipper.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.CustomOpen.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.DDosAttack.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.EditReg.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.FilesSearcher.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.FM.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Form2.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Ftp.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Fun.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HApps.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Hash.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HBrowser.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Hosts.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HRDP.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.INFO.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Keylogger.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Main.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Maps.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.MBox.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.MIC.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ngrok.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Performance.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Port.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ProcessV.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Programs.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Proxy.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Ransomware.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Registry.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Resources.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.RunPE.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ServiceManager.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Shell.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Sound.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.StartupManager.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TBotNotify.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TcpConnectionForm.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ToolsBox.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TXT.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.VoiceChat.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.WebCam.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.RemoteDesktop.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.VBCode.resources
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.GenerateResource.cache
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.CoreCompileInputs.cache
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.5186F799.Up2Date
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.pdb
+C:\Users\csdfs\Desktop\New folder (3)\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.pdb
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\DotNetZip.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\FastColoredTextBox.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\GMap.NET.Core.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\GMap.NET.WindowsForms.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\Guna.UI2.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\IconExtractor.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\NAudio.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\SimpleObfuscator.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.AssemblyReference.cache
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.g.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.About.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ACT.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Builder.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Chat.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipboard.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipper.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.CustomOpen.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.DDosAttack.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.EditReg.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.FilesSearcher.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.FM.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Form2.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Ftp.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Fun.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HApps.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Hash.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HBrowser.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Hosts.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HRDP.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.INFO.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Keylogger.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Main.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Maps.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.MBox.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.MIC.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ngrok.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Performance.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Port.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ProcessV.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Programs.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Proxy.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Ransomware.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Registry.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Resources.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.RunPE.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ServiceManager.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Shell.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Sound.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.StartupManager.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TBotNotify.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TcpConnectionForm.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ToolsBox.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TXT.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.VoiceChat.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.WebCam.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.RemoteDesktop.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.VBCode.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.GenerateResource.cache
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.CoreCompileInputs.cache
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.5186F799.Up2Date
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\New folder (3) - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.pdb
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\XWorm.pdb
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\DotNetZip.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\FastColoredTextBox.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\GMap.NET.Core.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\GMap.NET.WindowsForms.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\Guna.UI2.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\IconExtractor.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\NAudio.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\bin\Debug\net45\SimpleObfuscator.dll
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.AssemblyReference.cache
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.exe.config
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.g.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.About.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ACT.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Builder.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Chat.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipboard.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Clipper.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.CustomOpen.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.DDosAttack.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.EditReg.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.FilesSearcher.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.FM.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Form2.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Ftp.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Fun.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HApps.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Hash.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HBrowser.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Hosts.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.HRDP.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.INFO.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Keylogger.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Main.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Maps.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.MBox.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.MIC.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ngrok.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Performance.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Port.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ProcessV.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Programs.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Proxy.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Ransomware.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Registry.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Resources.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.RunPE.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ServiceManager.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Shell.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.Sound.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.StartupManager.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TBotNotify.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TcpConnectionForm.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.ToolsBox.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.TXT.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.VoiceChat.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.WebCam.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.RemoteDesktop.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.VBCode.resources
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.GenerateResource.cache
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.6_@ThreatCommunity.csproj.CoreCompileInputs.cache
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm_V5.5186F799.Up2Date
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.exe
+C:\Users\csdfs\Desktop\New folder (3) - Copy - Copy\Xworm full patch and fix src\sdfsdf\XWorm_V5.6_\obj\Debug\net45\XWorm.pdb

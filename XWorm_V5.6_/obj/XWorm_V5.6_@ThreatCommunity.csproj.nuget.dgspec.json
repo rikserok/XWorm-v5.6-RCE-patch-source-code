@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm_V5.6_@ThreatCommunity.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm_V5.6_@ThreatCommunity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm_V5.6_@ThreatCommunity.csproj",
+        "projectName": "XWorm",
+        "projectPath": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm_V5.6_@ThreatCommunity.csproj",
+        "packagesPath": "C:\\Users\\csdfs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\csdfs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "DotNetZip": {
+              "target": "Package",
+              "version": "[1.16.0, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "System.IO.Compression": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

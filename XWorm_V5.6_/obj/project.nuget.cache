@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "RGX46wZHYcU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm_V5.6_@ThreatCommunity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\csdfs\\.nuget\\packages\\dotnetzip\\1.16.0\\dotnetzip.1.16.0.nupkg.sha512",
+    "C:\\Users\\csdfs\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\csdfs\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.3\\microsoft.netframework.referenceassemblies.net45.1.0.3.nupkg.sha512",
+    "C:\\Users\\csdfs\\.nuget\\packages\\system.io.compression\\4.3.0\\system.io.compression.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'DotNetZip' 1.16.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-xhg6-9j5j-w4vf",
+      "projectPath": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm_V5.6_@ThreatCommunity.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm_V5.6_@ThreatCommunity.csproj",
+      "libraryId": "DotNetZip",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5",
+        ".NETFramework,Version=v4.5/win-x86"
+      ]
+    }
+  ]
+}

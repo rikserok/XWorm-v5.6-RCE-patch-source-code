@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm_v5.6_@threatcommunity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm_v5.6_@threatcommunity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm\\port.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\port.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm\\class0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\class0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\xworm\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\xworm\\port.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\port.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm.resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm.resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm\\vbcode.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\vbcode.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm\\remotedesktop.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\remotedesktop.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm.main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm.main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\xworm\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm\\tbotnotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\tbotnotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm\\gclass10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\gclass10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\xworm\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|c:\\users\\csdfs\\desktop\\new folder (3) - copy - copy\\xworm full patch and fix src\\sdfsdf\\xworm_v5.6_\\xworm\\gclass9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\gclass9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\xworm\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\xworm\\fun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\fun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\xworm\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@ThreatCommunity.csproj|solutionrelative:xworm\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Chat.cs",
+              "RelativeDocumentMoniker": "XWorm\\Chat.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Chat.cs",
+              "RelativeToolTip": "XWorm\\Chat.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:14:35.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XWorm_V5.6_@ThreatCommunity.csproj",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm_V5.6_@ThreatCommunity.csproj",
+              "RelativeDocumentMoniker": "XWorm_V5.6_@ThreatCommunity.csproj",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm_V5.6_@ThreatCommunity.csproj",
+              "RelativeToolTip": "XWorm_V5.6_@ThreatCommunity.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T00:10:15.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XWorm.Resources.resx",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm.Resources.resx",
+              "RelativeDocumentMoniker": "XWorm.Resources.resx",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm.Resources.resx",
+              "RelativeToolTip": "XWorm.Resources.resx",
+              "ViewState": "AgIAAJMqAAAAAAAAAAAuwKMqAAD1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-18T00:09:17.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VBCode.resx",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\VBCode.resx",
+              "RelativeDocumentMoniker": "XWorm\\VBCode.resx",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\VBCode.resx",
+              "RelativeToolTip": "XWorm\\VBCode.resx",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-18T00:09:14.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RemoteDesktop.resx",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\RemoteDesktop.resx",
+              "RelativeDocumentMoniker": "XWorm\\RemoteDesktop.resx",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\RemoteDesktop.resx",
+              "RelativeToolTip": "XWorm\\RemoteDesktop.resx",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-18T00:09:10.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\About.cs",
+              "RelativeDocumentMoniker": "XWorm\\About.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\About.cs",
+              "RelativeToolTip": "XWorm\\About.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAkwJsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:08:05.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class0.cs",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Class0.cs",
+              "RelativeDocumentMoniker": "XWorm\\Class0.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Class0.cs",
+              "RelativeToolTip": "XWorm\\Class0.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:07:56.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\About.cs",
+              "RelativeDocumentMoniker": "XWorm\\About.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\About.cs [Design]",
+              "RelativeToolTip": "XWorm\\About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:07:51.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Port.cs",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Port.cs",
+              "RelativeDocumentMoniker": "XWorm\\Port.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Port.cs",
+              "RelativeToolTip": "XWorm\\Port.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAkwHMBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:01:49.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Chat.cs",
+              "RelativeDocumentMoniker": "XWorm\\Chat.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Chat.cs [Design]",
+              "RelativeToolTip": "XWorm\\Chat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:11:19.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Port.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Port.cs",
+              "RelativeDocumentMoniker": "XWorm\\Port.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Port.cs [Design]",
+              "RelativeToolTip": "XWorm\\Port.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:01:48.55Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XWorm.Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm.Main.Designer.cs",
+              "RelativeDocumentMoniker": "XWorm.Main.Designer.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm.Main.Designer.cs",
+              "RelativeToolTip": "XWorm.Main.Designer.cs",
+              "ViewState": "AgIAAEwDAAAAAAAAAAAAwGMDAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:36:38.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Builder.cs",
+              "RelativeDocumentMoniker": "XWorm\\Builder.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Builder.cs",
+              "RelativeToolTip": "XWorm\\Builder.cs",
+              "ViewState": "AgIAABsCAAAAAAAAAAAkwCsCAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:11:22.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TBotNotify.cs",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\TBotNotify.cs",
+              "RelativeDocumentMoniker": "XWorm\\TBotNotify.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\TBotNotify.cs",
+              "RelativeToolTip": "XWorm\\TBotNotify.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAJkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:36:36.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Main.cs",
+              "RelativeDocumentMoniker": "XWorm\\Main.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Main.cs",
+              "RelativeToolTip": "XWorm\\Main.cs",
+              "ViewState": "AgIAALUWAAAAAAAAAAArwBgWAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:35:27.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Builder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Builder.cs",
+              "RelativeDocumentMoniker": "XWorm\\Builder.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Builder.cs [Design]",
+              "RelativeToolTip": "XWorm\\Builder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:08:21.849Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GClass10.cs",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\GClass10.cs",
+              "RelativeDocumentMoniker": "XWorm\\GClass10.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\GClass10.cs",
+              "RelativeToolTip": "XWorm\\GClass10.cs",
+              "ViewState": "AgIAAIsCAAAAAAAAAAAjwJ4CAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:07:17.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GClass9.cs",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\GClass9.cs",
+              "RelativeDocumentMoniker": "XWorm\\GClass9.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\GClass9.cs",
+              "RelativeToolTip": "XWorm\\GClass9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:07:08.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Main.cs",
+              "RelativeDocumentMoniker": "XWorm\\Main.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Main.cs [Design]",
+              "RelativeToolTip": "XWorm\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:31:39.744Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Fun.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Fun.cs",
+              "RelativeDocumentMoniker": "XWorm\\Fun.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Fun.cs [Design]",
+              "RelativeToolTip": "XWorm\\Fun.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:30:26.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Form2.cs",
+              "RelativeDocumentMoniker": "XWorm\\Form2.cs",
+              "ToolTip": "C:\\Users\\csdfs\\Desktop\\New folder (3) - Copy - Copy\\Xworm full patch and fix src\\sdfsdf\\XWorm_V5.6_\\XWorm\\Form2.cs [Design]",
+              "RelativeToolTip": "XWorm\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:29:59.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
